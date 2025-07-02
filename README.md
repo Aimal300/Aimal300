@@ -1,5 +1,5 @@
 # Hello, I'm Syed Aimal Shah
-<a href="(https://www.linkedin.com/in/syed-shah-04696216a/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/syed-shah-04696216a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT professional experienced in Risk and Compliance in technology with a dedication to solving complex problems. If you haven't already, click the above button to check out my LinkedIn
 
